@@ -41,3 +41,14 @@ public class GitHubBio extends Bio {
 ```
 
 -------
+
+#### Technologies I'm currently mastering
+
+![Java](https://img.shields.io/badge/Java-15-blue?logo=java)
+![Spring](https://img.shields.io/badge/Spring-2.3.4-blue?logo=spring)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2020.2.3-blue?logo=intellij-idea)
+![MySQL](https://img.shields.io/badge/MySQL-8.0.22-blue?logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-blue?logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-v4.5.2-blue?logo=bootstrap)
+
+-------
