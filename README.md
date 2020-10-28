@@ -1,4 +1,8 @@
-### Hi there! 👋 I'm Bartosz and I'm glad you're here! 🥰
+### 👋 Hi there! I'm Bartosz and I'm glad you're here! 🥰
+
+-------
+
+#### 🖊 Let's start with short introduction!
 
 ```Java
 package io.github.batetolast1.batetolast1.domain.entities;
@@ -42,7 +46,7 @@ public class GitHubBio extends Bio {
 
 -------
 
-#### Technologies I'm currently mastering
+#### 🚀 Technologies I'm currently mastering
 
 ![Java](https://img.shields.io/badge/Java-15-blue?logo=java)
 ![Spring](https://img.shields.io/badge/Spring-2.3.4-blue?logo=spring)
@@ -52,8 +56,6 @@ public class GitHubBio extends Bio {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-v4.5.2-blue?logo=bootstrap)
 
 -------
-
-#### My latest activity
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
@@ -121,7 +123,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 -------
 
-#### Created with help from the community! ❤️
+#### 👨‍💻 Readme was created with some help from the community! ❤️
 
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 - [badges/shields](https://github.com/badges/shields)
