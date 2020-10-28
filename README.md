@@ -52,3 +52,15 @@ public class GitHubBio extends Bio {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-v4.5.2-blue?logo=bootstrap)
 
 -------
+
+#### My latest activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+-------
+
+#### Created with help from the community! ❤️
+
+- [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+- [badges/shields](https://github.com/badges/shields)
