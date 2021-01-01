@@ -60,7 +60,7 @@ public class GitHubBio extends Bio {
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 618 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 17.1 kB Used in Github's Storage 
  > 
