@@ -66,9 +66,9 @@ public class GitHubBio extends Bio {
  > 
 > 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
-> 🔑 17 Private Repositories  
+> 🔑 16 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
