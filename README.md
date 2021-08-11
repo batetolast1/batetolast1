@@ -62,7 +62,7 @@ public class GitHubBio extends Bio {
 
 > 🏆 78 Contributions in the Year 2021
  > 
-> 📦 17.6 kB Used in Github's Storage 
+> 📦 17.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -113,7 +113,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2021
+ Last Updated on 11/08/2021
 <!--END_SECTION:waka-->
 
 -------
